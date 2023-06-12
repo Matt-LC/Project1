@@ -8,5 +8,6 @@ int main() {
 	cout << "hello,world!!" << endl;
 	returnRes();
 	system("pause");
+
 	return EXIT_SUCCESS;
 }
